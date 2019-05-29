@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #d8d4f2;
+
+    }
+h2{
+    color: red;
+    font-family: Arial;
+    font-size: 3vh;
+    padding-left: 5vh;
+}
+.index p{
+    color: green;
+}
+div h2 {
+    color: black;
+}
+#p1{
+    color: black;
+    font-size: 1.4vh;
+}
+
+.vertical-menu {
+  width: 1vw;
+    top: 36.8vh;
+}
+h2 {
+    top: 35vh;
+}
+.vertical-menu a {
+    left: auto;
+    background-color: #d8d4f2; /* pale lavender background  color */
+    color: black; /* Black text color */
+    display: inline-block; /* Make the links appear below    each other */
+    padding: 0px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #C04897; /* English lavender background on mouse-over */
+}
+.vertical-menu a.active {
+  background-color: #590004; /* Add a  color to the "active/current" link */
+  color: white;
+}
+
+header {
+}
+
+img {
+    width: 100%;
+}
+
+nav {
+    font-size: 30px;
+    padding-left: 5vh;
+}
+
+p {
+    padding-left: 2vh;
+}
+.col-3{
+    width: 10%
+}
+a {
+    margin: 0;
+}
+.lol{
+    margin-top: 10vh;
+}
+.col-2{
+    width: 25%;
+}
+.col-10 {
+    width: 75%;
+}
+.graf {
+    max-width: 25vw;
+    max-height: 25vh;
+}
+.col-4 {
+    padding-top: 5vh;
+    padding-right: 50vh;
+}
+#diswig {
+float:right;
+}
+#turlte {
+    max-width: 20vw;
+    max-height: 20vh;
+}
